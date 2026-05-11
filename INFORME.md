@@ -2,7 +2,7 @@
 
 **Estudiante:** Juan Manuel Rua Echalar  
 **Carrera:** Ing. Ciencias de la Computación
-
+https://github.com/ManuelRuaEchalar/lab5.1
 ## Descripción del Proyecto y Pipeline Configurado
 
 En esta práctica, se ha desarrollado una API RESTful sencilla utilizando **Express.js**, implementando un CRUD para la entidad `User`. Se incluyeron pruebas unitarias y de integración utilizando `Jest` y `Supertest` para garantizar que todas las rutas funcionen según lo esperado y tengan buena cobertura. Además, se ha configurado `ESLint` para el análisis estático de código.

@@ -1,5 +1,5 @@
 # Práctica Individual: GitHub Actions CI Demo
-
+https://github.com/ManuelRuaEchalar/lab5.1
 Este repositorio contiene la implementación de una API CRUD básica en Express.js junto con la configuración completa de un pipeline de Integración Continua mediante GitHub Actions, desarrollado como parte del Laboratorio 5.1.
 
 ## Documentación del Laboratorio
