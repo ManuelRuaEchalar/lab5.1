@@ -29,3 +29,5 @@ Puedes encontrar el informe completo con la descripción de la arquitectura, det
    ```bash
    npm test
    ```
+
+5.
